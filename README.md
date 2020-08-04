@@ -16,9 +16,9 @@ ln -s Market-1501-v15.09.15 market
 ``` 
 then, get the directory structure
 ├── data_aug_reid
-　　　　　　      ├── data
-　　　　　　　            ├── market
-　　　　　　　            ├── Market-1501-v15.09.15
+        ├── data
+                ├── market
+                ├── Market-1501-v15.09.15
 
 
 Preparation 2: Put the images with the same id in one folder. You may use 
@@ -37,14 +37,13 @@ Finally, conduct training, testing and evaluating with one command
 python run.py
 ```
 
-This code is related to our paper _Self-supervised Data Augmentation for Person Re-Identification_
+This code is related to our paper _Self-supervised Data Augmentation for Person Re-Identification_.
+
 If you use this code, please cite our paper as:
 
 
 
 
-## Related Repos
-1. [Pedestrian Alignment Network](https://github.com/layumi/Pedestrian_Alignment)
-2. [2stream Person re-ID](https://github.com/layumi/2016_person_re-ID)
-3. [Pedestrian GAN](https://github.com/layumi/Person-reID_GAN)
-4. [Language Person Search](https://github.com/layumi/Image-Text-Embedding)
+## related link:
+https://github.com/layumi/Person_reID_baseline_pytorch
+
