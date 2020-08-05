@@ -5,9 +5,13 @@
 - Pytorch 0.4+
 
 Preparation 1: create folder for dataset.
-first, download Market-1501 dataset from the links below
+
+first, download Market-1501 dataset from the links below:
+
 google drive: https://drive.google.com/file/d/0B8-rUzbwVRk0c054eEozWG9COHM/view?usp=sharing
+
 baidu disk: https://pan.baidu.com/s/1ntIi2Op
+
 second,
 ```bash
 mkdir data
@@ -40,10 +44,12 @@ python run.py
 This code is related to our paper _Self-supervised Data Augmentation for Person Re-Identification_.
 
 If you use this code, please cite our paper as:
+******
 
 
 
 
-## related link:
+
+## reference link:
 https://github.com/layumi/Person_reID_baseline_pytorch
 
