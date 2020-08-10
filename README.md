@@ -19,10 +19,12 @@ unzip Market-1501-v15.09.15.zip
 ln -s Market-1501-v15.09.15 market
 ``` 
 then, get the directory structure
+``` 
 ├── data_aug_reid
         ├── data
                 ├── market
                 ├── Market-1501-v15.09.15
+``` 
 
 
 Preparation 2: Put the images with the same id in one folder. You may use 
@@ -44,7 +46,20 @@ python run.py
 This code is related to our paper _Self-supervised Data Augmentation for Person Re-Identification_.
 
 If you use this code, please cite our paper as:
-******
+```
+@article{CHEN202048,
+title = "Self-supervised data augmentation for person re-identification",
+journal = "Neurocomputing",
+volume = "415",
+pages = "48 - 59",
+year = "2020",
+issn = "0925-2312",
+doi = "https://doi.org/10.1016/j.neucom.2020.07.087",
+url = "http://www.sciencedirect.com/science/article/pii/S0925231220312170",
+author = "Feng Chen and Nian Wang and Jun Tang and Dong Liang and Hao Feng",
+}
+```
+
 
 
 
