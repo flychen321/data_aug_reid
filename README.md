@@ -47,16 +47,14 @@ This code is related to our paper _Self-supervised Data Augmentation for Person 
 
 If you use this code, please cite our paper as:
 ```
-@article{CHEN202048,
-title = "Self-supervised data augmentation for person re-identification",
-journal = "Neurocomputing",
-volume = "415",
-pages = "48 - 59",
-year = "2020",
-issn = "0925-2312",
-doi = "https://doi.org/10.1016/j.neucom.2020.07.087",
-url = "http://www.sciencedirect.com/science/article/pii/S0925231220312170",
-author = "Feng Chen and Nian Wang and Jun Tang and Dong Liang and Hao Feng",
+@article{chen2020self,
+  title={Self-supervised data augmentation for person re-identification},
+  author={Chen, Feng and Wang, Nian and Tang, Jun and Liang, Dong and Feng, Hao},
+  journal={Neurocomputing},
+  volume={415},
+  pages={48--59},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
 
